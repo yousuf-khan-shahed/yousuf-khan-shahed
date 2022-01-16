@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yousuf-khan-shahed
 - 👀 I’m interested in Programing & Cyber Security
 - 🌱 I’m currently learning Web Development
-- 
 
 
 <!---
